@@ -1,0 +1,15 @@
+C:\Users\Matteo\Documents\4.12.3\4.12.3\bin\Debug\net6.0\4.12.3.exe
+C:\Users\Matteo\Documents\4.12.3\4.12.3\bin\Debug\net6.0\4.12.3.deps.json
+C:\Users\Matteo\Documents\4.12.3\4.12.3\bin\Debug\net6.0\4.12.3.runtimeconfig.json
+C:\Users\Matteo\Documents\4.12.3\4.12.3\bin\Debug\net6.0\4.12.3.dll
+C:\Users\Matteo\Documents\4.12.3\4.12.3\bin\Debug\net6.0\4.12.3.pdb
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\4.12.3.csproj.AssemblyReference.cache
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\4.12.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\4.12.3.AssemblyInfoInputs.cache
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\4.12.3.AssemblyInfo.cs
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\4.12.3.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\4.12.3.dll
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\refint\4.12.3.dll
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\4.12.3.pdb
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\4.12.3.genruntimeconfig.cache
+C:\Users\Matteo\Documents\4.12.3\4.12.3\obj\Debug\net6.0\ref\4.12.3.dll
